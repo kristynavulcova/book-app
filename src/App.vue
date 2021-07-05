@@ -183,10 +183,10 @@ export default{
     position: relative;
 }
 .search{
-  background:white url("./search.svg") no-repeat right .8em center;
+  background:white url("../search.svg") no-repeat right .8em center;
 }
 .btn{
-  background:white url("./plus.svg") no-repeat left .8em center;
+  background:white url("../plus.svg") no-repeat left .8em center;
 }
 
 </style>
